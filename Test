@@ -1,4 +1,4 @@
-// Dynamic typing and Java integration
+// Dynamic typing and Java integration1
 def greet(name) {
     println("Hello, $name!")
 }
