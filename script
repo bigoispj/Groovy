@@ -1,0 +1,3 @@
+// Exemplo de scripting simples
+def nome = "Groovy"
+println "Hello, $nome!"

@@ -1,0 +1,12 @@
+// Exemplo de teste usando o framework Spock
+import spock.lang.Specification
+
+class MeuTeste extends Specification {
+    def "Teste de exemplo"() {
+        given:
+        def valor = 5
+
+        expect:
+        valor > 0
+    }
+}
