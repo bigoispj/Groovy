@@ -3,8 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Groovy Project</title>
-</head>
+  </head>
 <body>
 
   <h1>Groovy Project: A Dynamic Language for the JVM</h1>
