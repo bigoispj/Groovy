@@ -47,5 +47,8 @@
 
   <p>Enjoy coding with Groovy! 🚀</p>
 
+  <h2>License</h2>
+  <p>This project is licensed under the <a href="https://mit-license.org/" target="_blank">MIT License</p>
+
 </body>
 </html>
